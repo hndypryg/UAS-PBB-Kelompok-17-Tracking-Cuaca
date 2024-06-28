@@ -1,10 +1,8 @@
-# perfect_tracking
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
+# tracking_cuaca
+1. Hendy Prayoga 2211102441054
+2. ⁠Rifqa Nabila Aprilia 2211102441194
+3. Dhimas Arief Kurniawan 2211102441171
+4. ⁠Ainnaya Maghfirah Islami 2211102441135
 
 A few resources to get you started if this is your first Flutter project:
 
